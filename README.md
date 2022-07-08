@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sikario25
+- 👋 Hi, I’m Iryna Hul
 - 👀 I’m interested in HTML,CSS and JavaScript
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on HTML,CSS,JS
